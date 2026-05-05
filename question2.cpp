@@ -1,3 +1,5 @@
+// next greater element
+
 #include <iostream>
 using namespace std;
 
